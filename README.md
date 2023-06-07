@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Yumbia Kyumu.</h2>
+<h2> Hey there! My name is Yumbia Kyumu.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -38,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumbiakyumu8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumbiakyumu&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumbiakyumu&theme=buefy&layout=compact" />
 </a>
 
