@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Laravel, React, and Python projects<br>👯 I’m looking to collaborate on developing software solutions and quick hacks.<br>🌱 I’m currently learning Rust, React and Selenium<br>💬 Ask me about Cyber Security, Software Development, and Artificial Intelligence.<br>⚡ Fun fact "The Firefox logo isn't a fox"
+ 🔭 I’m currently working on Laravel, React, and Python projects<br>👯 I’m looking to collaborate on developing software solutions and quick hacks.<br>🌱 I’m currently learning Rust, React and Arduino<br>💬 Ask me about Cyber Security, Software Development, and Artificial Intelligence.<br>⚡ Fun fact "The Firefox logo isn't a fox"
 
 
 # 💻 Tech Stack:
