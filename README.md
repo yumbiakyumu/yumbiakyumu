@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yumbia Kyumu</h1>
-<h3 align="center">A developer based in Nairobi, Kenya.</h3>
+<h3 align="center">A Full Stack Developer based in Nairobi, Kenya.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on ML,AI,React and Python Projects<br>👯 I’m looking to collaborate on developing software solutions and quick hacks.<br>🌱 I’m currently learning React,NodeJs and ML frameworks.<br>💬 Ask me about Cyber Security, Software Engineering, and Artificial Intelligenc<br>
